@@ -1,0 +1,43 @@
+body {
+align-items: center;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+/*width: 200px; /* Valor da Largura do elemento */
+}
+
+.tree-cell.depth1 {
+    -fx-text-fill: red ;
+}
+.tree-cell.depth2 {
+    -fx-text-fill: green ;
+}
+.tree-cell.depth3 {
+    -fx-text-fill: blue ;
+}
+.tree-cell.depth4 {
+    -fx-text-fill: orange ;
+}
+/*
+.tree-view, .tree-cell {
+    -fx-background-color: yellow ;
+    -fx-text-fill: green ;
+}*/
+/*
+.tree-cell:expanded, .tree-cell:sub-tree-item {
+    -fx-background-color: #404040 ;
+}
+.tree-cell:selected {
+    -fx-font-weight: bold ;
+}*/
+/*
+.tree-cell {
+    -fx-padding: 0.75em 0em 0.75em 0em ;
+}
+.tree-cell:sub-tree-item {
+/*    -fx-padding: 0.25em ;*/
+/*    -fx-text-fill: yellow;
+}
+*/
+

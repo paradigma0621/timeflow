@@ -1,0 +1,13 @@
+* Primeiro título (nível 1)
+* Nível um
+* Outro contendo nível um
+*** level three, inside 2
+text text text text
+text text
+:LOGBOOK:
+CLOCK: [2021-11-03 qua 09:09]--[2021-11-03 qua 11:42] =>  2:33
+CLOCK: [2021-11-01 seg 13:49]--[2021-11-01 seg 18:02] =>  4:13
+:END:
+text text text text
+** level 2 inside one
+text text

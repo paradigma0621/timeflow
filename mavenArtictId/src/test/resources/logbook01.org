@@ -1,0 +1,45 @@
+*** Programando tarefas para o dia seguinte
+:LOGBOOK:
+CLOCK: [2021-05-10 ter 14:39]--[2021-05-10 ter 14:54] =>  0:15
+CLOCK: [2021-05-10 seg 18:31]--[2021-05-10 seg 18:34] =>  0:03
+:END:
+
+
+** Dois niveis
+*** level three, inside 2
+:LOGBOOK:
+CLOCK: [2020-06-11 ter 16:39]--[2021-05-11 ter 18:54] =>  0:25
+CLOCK: [2020-04-13 seg 18:31]--[2021-05-10 seg 19:34] =>  0:34
+:END:
+
+
+* Nível one in the end
+** level 12 inside one
+some text12
+:LOGBOOK:
+CLOCK: [2020-06-12 ter 12:56]--[2021-05-13 qua 18:11] =>  0:25
+:END:
+some text34
+:LOGBOOK:
+CLOCK: [2001-07-01 ter 12:56]--[2002-05-13 qua 19:01] =>  1:23
+:END:
+
+** new level 22
+:LOGBOOK:
+CLOCK: [2021-03-11 ter 10:39]--[2021-05-11 ter 14:54] =>  0:35
+CLOCK: [2021-02-10 seg 09:31]--[2021-05-10 seg 18:34] =>  0:45
+:END:
+
+** new level 31
+
+
+
+text of level31
+
+
+:LOGBOOK:
+CLOCK: [2021-03-11 ter 10:39]--[2021-05-11 ter 14:54] =>  0:35
+CLOCK: [2021-02-10 seg 09:31]--[2021-05-10 seg 18:34] =>  0:45
+:END:
+
+
